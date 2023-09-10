@@ -1,0 +1,28 @@
+Omega Defenders
+Can't cross the midline
+Only strike until your barriers are down
+Only abilities until the enemy barriers are down
+Random character no ult
+No evade
+WASD/MOBA swap
+Key direction swap
+Can only move while damaged
+Always draft 6th pick
+Always draft wis
+Can only move while damaged
+Can only move while emoting
+Can only use an ability if nothing is on cooldown
+Can't score or take a barrier
+Abilities mapped to I,O,P
+Can't leave the goal box
+Have to stand at the edge at all times
+No meter
+No striking
+Strike only their half abilities only our half
+Can only move towards the enemy goal
+Can't move for 10 seconds after kick off
+Can't move while on strike cooldown
+
+
+
+
